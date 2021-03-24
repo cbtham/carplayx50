@@ -16,9 +16,9 @@ Not working:
 
 # Picture Progress
 
-[<img src="./img/1.jpg" width=50% height=50%/>](./img/1.jpg)
+[<img src="./img/1.jpg" width=75% height=75%/>](./img/1.jpg)
 
-[<img src="./img/2.jpg" width=50% height=50%/>](./img/2.jpg)
+[<img src="./img/2.jpg" width=75% height=75%/>](./img/2.jpg)
 
 # Dongle
 You will need a dongle that does wired/wireless carplay. These are easily found with different prices online. I got mine from tbao, zbox.
